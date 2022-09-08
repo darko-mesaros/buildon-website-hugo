@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Jacquies and Darkos amazing website! Yay FrontPage98'
+theme = 'ananke'
